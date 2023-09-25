@@ -4,5 +4,5 @@ This project is an exploratory data analysis in Python on a general hospital inf
 an API, clean and prep the data for use in SQL and/or Tableau, and provide high-level insights regarding trends in Medicare-registered Hospitals across the United States.
 
 <div align="center">
-<img src=https://github.com/patrickk-scott/medicare-hospital-performance/blob/main/healthcare-analytics.jpeg" >
+<img src="https://github.com/patrickk-scott/medicare-hospital-performance/blob/main/healthcare-analytics.jpeg" >
 </div>
